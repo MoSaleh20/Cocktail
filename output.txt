@@ -1,0 +1,12 @@
+
+name=Banana, calories=1.6800000000000002, color (254, 248, 10), volume=3.0
+name=Watermelon, calories=10.0, color (225, 40, 40), volume=50.0
+name=Strawberry, calories=14.399999999999999, color (225, 5, 33), volume=40.0
+name=Mango, calories=4.2, color (255, 130, 67), volume=10.0
+name=milk, calories=2.0, color (255, 249, 251), volume=10.0
+name=sugar, calories=5.0, color (255, 255, 255), volume= ignored 
+
+Capacity = 200.0
+Volume = 113.0
+Color (228,57,55)
+Calories = 37.28

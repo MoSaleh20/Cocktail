@@ -1,0 +1,8 @@
+blender 200
+cup 50
+banana 3
+Watermelon 50
+Strawberry 40
+mango 10
+milk 10
+Sugar

@@ -1,0 +1,30 @@
+
+Cup: Capacity = 50.0
+Volume = 50.0
+Color (228,57,55)
+Calories = 16.495575221238937
+
+Blender after pour #1: Capacity = 200.0
+Volume = 63.0
+Color (228,57,55)
+Calories = 20.784424778761064
+
+Cup: Capacity = 50.0
+Volume = 50.0
+Color (228,57,55)
+Calories = 16.49557522123894
+
+Blender after pour #2: Capacity = 200.0
+Volume = 13.0
+Color (228,57,55)
+Calories = 4.2888495575221235
+
+Cup: Capacity = 50.0
+Volume = 13.0
+Color (228,57,55)
+Calories = 4.2888495575221235
+
+Blender after pour #3: Capacity = 200.0
+Volume = 0.0
+Color (255,255,255)
+Calories = 0.0
